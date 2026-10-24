@@ -1,0 +1,29 @@
+
+# React frontend
+dude-clothing-frontend/node_modules/
+dude-clothing-frontend/dist/
+dude-clothing-frontend/build/
+dude-clothing-frontend/.env
+dude-clothing-frontend/.env.*
+!dude-clothing-frontend/.env.example
+
+# ASP.NET Core nested project
+DudeClothing.Api/DudeClothing.Api/bin/
+DudeClothing.Api/DudeClothing.Api/obj/
+DudeClothing.Api/DudeClothing.Api/Properties/
+DudeClothing.Api/DudeClothing.Api/appsettings.Development.json
+DudeClothing.Api/DudeClothing.Api/*.csproj.user
+DudeClothing.Api/DudeClothing.Api/secrets.json
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE and operating system files
+.vs/
+.vscode/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
