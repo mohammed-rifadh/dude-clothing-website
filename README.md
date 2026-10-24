@@ -16,15 +16,15 @@ Dude Clothing Website is a full-stack clothing e-commerce project built to provi
 
 ### Homepage
 
-![Dude Clothing Website Homepage](screenshots/homepage.png)
+![Dude Clothing Website Homepage](screenshots/Home%20Page.png)
 
-### Products Page
+### Shop Page
 
-![Dude Clothing Website Products Page](screenshots/products.png)
+![Dude Clothing Website Shop Page](screenshots/Shop%20Page%202.png)
 
 ### Product Details
 
-![Dude Clothing Website Product Details](screenshots/product-details.png)
+![Dude Clothing Website Product Details](screenshots/Product%20Details%202.png)
 
 ## 🛠️ Technologies Used
 
